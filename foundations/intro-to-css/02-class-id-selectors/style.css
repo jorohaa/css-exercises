@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p {
+    background-color: #f17979;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.larger {
+    font-size: 24px;
+}
+
+#blue-unique {
+    color: #0f31f0;
+    font-size: 36px;
+}
+
+#green-unique {
+    background-color: #76f350;
+    font-weight: bold;
+}
