@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.b-one, 
+.b-two {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.b-one {
+    background-color: black;
+    color: hsl(0, 0%, 100%);
+}
+
+.b-two {
+    background-color: #eeff00;
+}
